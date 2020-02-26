@@ -4,7 +4,7 @@
 * Fuchs Valentin
 * Gardaz Kyle
 * Ginja Bernardo
-* Hall Davide
+* Hall Davide https://davidehall.github.io/Stefani-Joanne-Angelina-Germanotta/
 * Ihringer Yan
 * Immi Théo https://eracom-id491.github.io/Citation-theo/
 * Lê Oscar
